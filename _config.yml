@@ -1,0 +1,37 @@
+# Site settings
+title: SKM Professional Services
+email: info@skmprofessionals.nl
+description: > # omschrijving voor SKM Professional Services komt hier
+baseurl: "/testwebsite" # the subpath of your site, e.g. /blog/
+url: "http://locahost:4000" # the base hostname & protocol for your site
+
+
+#Social Media Buttons
+social:
+    - label: facebook
+      username: jekyllrb
+    - label: twitter
+      username: jekyllrb
+    - label: github
+      username: jekyll
+
+# Build settings
+markdown: kramdown
+
+# Main Static Blocks
+#maximum of three blocks
+# TODO: rename blocks to make it more clear where and how they can be used.
+
+static-blocks:
+  - header-title: Here's all the stuff I do.
+    header-description: Odio turpis amet sed consequat eget posuere consequat.
+    blocks:
+    - no: 1
+      title: Consequat lorem
+      description: Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.
+    - no: 2
+      title: Lorem dolor tempus
+      description: Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.
+    - no: 3
+      title: Feugiat posuere
+      description: Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.
