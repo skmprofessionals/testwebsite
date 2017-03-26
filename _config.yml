@@ -4,8 +4,9 @@ email: info@skmprofessionals.nl
 description: > # omschrijving voor SKM Professional Services komt hier
 baseurl: "/testwebsite" # the subpath of your site, e.g. /blog/
 url: "http://locahost:4000" # the base hostname & protocol for your site
-
-
+intro: "Let's make your life easier!"
+services: "Job-seekers: We will coach you so you can get the job you want. <br /> Business: We will help you recruit the best! "
+services-button: "Learn about what we do"
 #Social Media Buttons
 social:
     - label: facebook
